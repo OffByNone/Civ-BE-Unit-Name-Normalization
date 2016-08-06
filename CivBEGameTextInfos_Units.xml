@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by David McDonough (Firaxis Games) -->
+<!-- Sid Meier's Civilization: Beyond Earth -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Objects -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_SETTLER">
+			<Text>Colonist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WORKER">
+			<Text>Worker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EXPLORER">
+			<Text>Explorer</Text>
+			<Gender>masculine:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TRADER">
+			<Text>Trade Convoy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SEA_TRADER">
+			<Text>Trade Vessel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CARAVAN">
+			<Text>Trade Convoy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MARINE">
+			<Text>Marine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RANGED_MARINE">
+			<Text>Ranger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CAVALRY">
+			<Text>Amor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SIEGE">
+			<Text>Missile Rover</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AIR_FIGHTER">
+			<Text>Tacjet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_FIGHTER">
+			<Text>Gunboat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_CARRIER">
+			<Text>Carrier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_WOLF_BEETLE">
+			<Text>Wolf Beetle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_MANTICORE">
+			<Text>Manticore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_FLYER">
+			<Text>Drone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_RAPTOR_BUG">
+			<Text>Raptor Bug</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_SIEGE_WORM">
+			<Text>Siege Worm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_SEA_DRAGON">
+			<Text>Sea Dragon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_KRAKEN">
+			<Text>Kraken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BATTLESUIT">
+			<Text>Battlesuit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AEGIS">
+			<Text>Aegis</Text>
+			<Gender>masculine:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LEV_TANK">
+			<Text>LEV Tank</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LEV_DESTROYER">
+			<Text>LEV Destroyer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_XENO_SWARM">
+			<Text>Xeno Swarm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_XENO_CAVALRY">
+			<Text>Xeno Cavalry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_XENO_TITAN">
+			<Text>Xeno Titan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ROCKTOPUS">
+			<Text>Rocktopus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CNDR">
+			<Text>CNDR</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CARVR">
+			<Text>CARVR</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SABR">
+			<Text>SABR</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ANGEL">
+			<Text>ANGEL</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_FIGHTER">
+			<Text>Fighter Units</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_BOMBER">
+			<Text>Bomber Units</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_ARMOR">
+			<Text>Armored Units</Text>
+			<Gender>neuter:an</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_MOUNTED">
+			<Text>Mounted Units</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_NAVAL">
+			<Text>Naval Units</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_NAVALMELEE">
+			<Text>Naval Melee Units</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_HELICOPTER">
+			<Text>Helicopter Units</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_NAVALRANGED">
+			<Text>Naval Ranged Units</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_SIEGE">
+			<Text>Siege Units</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_CARRIER">
+			<Text>Carrier Units</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_ARCHER">
+			<Text>Ranged Units</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_GUN">
+			<Text>Ranged Alien Units</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TACNET_HUB">
+			<Text>TacNet Hub</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ORBITAL_LASER">
+			<Text>Orbital Laser</Text>
+			<Gender>masculine:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PHASAL_TRANSPORTER">
+			<Text>Phasal Transporter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PLANET_CARVER">
+			<Text>Planet Carver</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MIASMIC_REPULSOR">
+			<Text>Miasmic Repulsor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DEEP_SPACE_TELESCOPE">
+			<Text>Deep Space Telescope</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LASERCOM_SATELLITE">
+			<Text>Lasercom Satellite</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MIASMIC_CONDENSER">
+			<Text>Miasmic Condenser</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALL_SEEING_EYE">
+			<Text>All-Seer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SOLAR_COLLECTOR">
+			<Text>Solar Collector</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WEATHER_CONTROLLER">
+			<Text>Weather Controller</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ORBITAL_FABRICATOR">
+			<Text>Orbital Fabricator</Text>
+			<Gender>masculine:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HOLOMATRIX">
+			<Text>Holomatrix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EARTHLING_SETTLER">
+			<Text>Earthling Settler</Text>
+			<Gender>masculine:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ULTRASONIC_EMITTER">
+			<Text>Ultrasonic Emitter</Text>
+		</Row>
+		<!-- Promotions -->
+		<Row Tag="TXT_KEY_PROMOTION_AIR_INTERCEPTION">
+			<Text>Air Interception</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_INTERCEPTION_HELP">
+			<Text>Ability to Intercept Incoming Hostile Air Units</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_SWEEP">
+			<Text>Air Sweep</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AIR_SWEEP_HELP">
+			<Text>Ability to Draw Out Nearby Defending Air Units</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NO_DEFENSIVE_BONUS">
+			<Text>No defensive bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NO_DEFENSIVE_BONUS_HELP">
+			<Text>No defense bonus from terrain, and cannot fortify</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ALIEN_REPEL">
+			<Text>Alien Repel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ALIEN_REPEL_HELP">
+			<Text>Repels Aliens Within 2 tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CARGO">
+			<Text>Cargo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CARGO_HELP">
+			<Text>Ability to Carry Other Combat Units</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HOMELAND_DEFENSE">
+			<Text>Homeland Defense</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HOMELAND_DEFENSE_HELP">
+			<Text>More Effective When Fighting Within Home Borders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HOVER">
+			<Text>Hover</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HOVER_HELP">
+			<Text>Ability to Cross Most Types of Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_IGNORE_RANGED_LOS">
+			<Text>Ignore Ranged Line of Sight</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_IGNORE_RANGED_LOS_HELP">
+			<Text>Line of Sight Rules Do Not Apply</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ORBITAL_COVERAGE">
+			<Text>Orbital Coverage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ORBITAL_COVERAGE_HELP">
+			<Text>Orbital Coverage increased by 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INSTANT_HEAL_1">
+			<Text>New Recruits (Seasoned)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INSTANT_HEAL_1_HELP">
+			<Text>Instantly Recover 50 HP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INSTANT_HEAL_2">
+			<Text>New Recruits (Veteran)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INSTANT_HEAL_2_HELP">
+			<Text>Instantly Recover 50 HP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INSTANT_HEAL_3">
+			<Text>New Recruits (Expert)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INSTANT_HEAL_3_HELP">
+			<Text>Instantly Recover 75 HP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INSTANT_HEAL_4">
+			<Text>New Recruits (Master)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INSTANT_HEAL_4_HELP">
+			<Text>Instantly Recover 75 HP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INSTANT_HEAL_5">
+			<Text>New Recruits (Elite)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INSTANT_HEAL_5_HELP">
+			<Text>Instantly Recover 75 HP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INSTANT_HEAL_6">
+			<Text>New Recruits (Apex)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_INSTANT_HEAL_6_HELP">
+			<Text>Instantly Recover 75 HP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COMBAT_BOOST_1">
+			<Text>Discipline (Seasoned)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COMBAT_BOOST_1_HELP">
+			<Text>Permanent +10% [ICON_STRENGTH] Strength and [ICON_RANGE_STRENGTH] Ranged Strength in Combat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COMBAT_BOOST_2">
+			<Text>Discipline (Veteran)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COMBAT_BOOST_2_HELP">
+			<Text>Permanent +10% [ICON_STRENGTH] Strength and [ICON_RANGE_STRENGTH] Ranged Strength in Combat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COMBAT_BOOST_3">
+			<Text>Discipline (Expert)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COMBAT_BOOST_3_HELP">
+			<Text>Permanent +10% [ICON_STRENGTH] Strength and [ICON_RANGE_STRENGTH] Ranged Strength in Combat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COMBAT_BOOST_4">
+			<Text>Discipline (Master)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COMBAT_BOOST_4_HELP">
+			<Text>Permanent +10% [ICON_STRENGTH] Strength and [ICON_RANGE_STRENGTH] Ranged Strength in Combat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COMBAT_BOOST_5">
+			<Text>Discipline (Elite)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COMBAT_BOOST_5_HELP">
+			<Text>Permanent +10% [ICON_STRENGTH] Strength and [ICON_RANGE_STRENGTH] Ranged Strength in Combat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COMBAT_BOOST_6">
+			<Text>Discipline (Apex)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COMBAT_BOOST_6_HELP">
+			<Text>Permanent +10% [ICON_STRENGTH] Strength and [ICON_RANGE_STRENGTH] Ranged Strength in Combat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FIERCE_LOYALTY">
+			<Text>Fierce Loyalty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FIERCE_LOYALTY_HELP">
+			<Text>+10% [ICON_STRENGTH] Strength in Melee Combat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DOUBLE_DEFENSE">
+			<Text>Double Defense</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DOUBLE_DEFENSE_HELP">
+			<Text>+100% [ICON_STRENGTH] Strength when defending</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MIASMA_IMMUNE">
+			<Text>Miasma Immunity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MIASMA_IMMUNE_HELP">
+			<Text>No Damage From Miasma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MIASMA_IMMUNE_WORKERS">
+			<Text>Worker Miasma Immunity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MIASMA_IMMUNE_WORKERS_HELP">
+			<Text>Worker Units Take No Damage From Miasma.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MUST_SET_UP">
+			<Text>Must Set Up to Range Attack</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MUST_SET_UP_HELP">
+			<Text>Unit Must Set Up to Range Attack</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GOODY_HUT_PICKER">
+			<Text>Resource Pod Picker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_UNWELCOME_EVANGELIST">
+			<Text>Unwelcome Evangelist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_IGNORE_TERRAIN_COST">
+			<Text>Ignores Terrain Cost</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_IGNORE_TERRAIN_COST_HELP">
+			<Text>Ignores Additional [ICON_MOVES] Movement Cost of Rough Terrain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PANOPTICON">
+			<Text>Panopticon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PANOPTICON_HELP">
+			<Text>+1 Sight</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MASTER_CONTROL">
+			<Text>Master Control</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MASTER_CONTROL_HELP">
+			<Text>+1 [ICON_MOVES] Movement for Workers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EMBARKATION">
+			<Text>Embarkation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EMBARKATION_HELP">
+			<Text>Can embark onto [COLOR_POSITIVE_TEXT]Water Tiles[ENDCOLOR]. Embarked units destroyed if tile entered by enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEFENSIVE_EMBARKATION">
+			<Text>Embarkation with Defense</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEFENSIVE_EMBARKATION_HELP">
+			<Text>Can embark onto [COLOR_POSITIVE_TEXT]Water Tiles[ENDCOLOR]. Embarked units can defend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ALLWATER_EMBARKATION">
+			<Text>Embarkation with Ocean Movement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ALLWATER_EMBARKATION_HELP">
+			<Text>Can embark onto [COLOR_POSITIVE_TEXT]Water Tiles[ENDCOLOR]. Embarked units can enter Ocean and have +1 Sight.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OCEAN_IMPASSABLE_ASTRO">
+			<Text>Astronomy Needed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OCEAN_IMPASSABLE_ASTRO_HELP">
+			<Text>Cannot Enter Deep Ocean Until Astronomy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OCEAN_IMPASSABLE">
+			<Text>Cannot Enter Deep Ocean</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OCEAN_IMPASSABLE_HELP">
+			<Text>Unit May Not Enter Deep Ocean</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ONLY_DEFENSIVE">
+			<Text>May Not Melee Attack</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ONLY_DEFENSIVE_HELP">
+			<Text>Unit May Not Melee Attack</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_REPAIR_HELP">
+			<Text>Air Repair</Text>
+		</Row>
+    <!-- Passive Abilities -->
+    <Row Tag="TXT_KEY_UNIT_PASSIVEABILITY_ULTRASONIC_EMITTER_DAMAGE">
+      <Text>Ultrasonic Emitter</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_PASSIVEABILITY_NANOHIVE_AOE_DAMAGE_HELP">
+      <Text>Damages alien units within 2 tiles.</Text>
+    </Row>
+		<!-- Unit Help and Rollover Text-->
+		<Row Tag="TXT_KEY_UNIT_SETTLER_HELP">
+			<Text>Civilian Unit. Can establish an Outpost, which transforms into a full City once time passes and it acquires all territory adjacent to it.[NEWLINE][NEWLINE]While producing this Unit, a City's [ICON_FOOD] Growth temporarily stops.[NEWLINE][NEWLINE]Colonists may only be built in Cities with at least 2 [ICON_CITIZEN] Citizens.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WORKER_HELP">
+			<Text>Civilian Unit. Constructs Improvements on land and at sea, increasing the effectiveness of tiles when worked by a City's population.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EXPLORER_HELP">
+			<Text>Exploration Unit. Ideal for scouting the terrain, opposing forces, and alien activity. Its light Combat Strength gives it modest defense, but it is not suited to full-scale warfare.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TRADER_HELP">
+			<Text>Trade Unit. Used to establish Trade Routes by land between your cities and other cities, outposts, or stations. Trade Routes generate yields or increased outpost growth rate for the trading partners, but trade units are vulnerable to attack and their routes must be protected by military units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SEA_TRADER_HELP">
+			<Text>Naval Trade Unit. Used to establish Trade Routes by sea between your cities and other Cities, Outposts, or Stations. Trade Routes generate yields or increased outpost growth rate for trading partners, but Trade Units are vulnerable to attack and their routes must be protected by Military Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MARINE_HELP">
+			<Text>Melee Unit. A basic unit that is easy to build. It begins weak, but can be upgraded to increase its effectiveness and fight alongside more advanced units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RANGED_MARINE_HELP">
+			<Text>Ranged Unit. Attacks at range to avoid close quarters combat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CAVALRY_HELP">
+			<Text>Melee Unit. Specializing in mobility, it excels in battlefield positioning and chasing down enemy units, but cannot fortify or receive defense bonuses on terrain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SIEGE_HELP">
+			<Text>Ranged Unit. Specializes in reducing defenses of Cities and Outposts from afar, but has limited mobility.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AIR_FIGHTER_HELP">
+			<Text>Air Unit. Attacks at range from a base, such as a City or Carrier.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_FIGHTER_HELP">
+			<Text>Ranged Unit. Uses ranged weaponry to attack enemies at sea, or bombard enemies on nearby coasts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_CARRIER_HELP">
+			<Text>Support Unit. Has no attack capability of its own, but serves as a base for air units to launch operations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ULTRASONIC_EMITTER_HELP">
+			<Text>Support Unit. Mobile platform that causes damage to alien nearby units.</Text>
+		</Row>
+		<!-- Alien Units -->
+		<Row Tag="TXT_KEY_UNIT_ALIEN_WOLF_BEETLE_HELP">
+			<Text>The weakest alien unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_FLYER_HELP">
+			<Text>Hovering alien unit capable of passing most terrain obstructions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_MANTICORE_HELP">
+			<Text>An alien unit capable of attacking from a safe distance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_RAPTOR_BUG_HELP">
+			<Text>A fast moving alien unit, both tougher and capable of causing more damage than the Wolf Beetle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_SIEGE_WORM_HELP">
+			<Text>Colossal alien unit. Siege worms can attack units and cities directly, as well as passively destroy terrain improvements as it moves.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_SEA_DRAGON_HELP">
+			<Text>Basic alien naval unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_KRAKEN_HELP">
+			<Text>Colossal alien naval unit. Kraken should be avoided at all costs. They are only found in deep ocean.</Text>
+		</Row>
+		<!-- Unique Units -->
+		<Row Tag="TXT_KEY_UNIT_BATTLESUIT_HELP">
+			<Text>[COLOR_PURITY_AFFINITY][ICON_PURITY] Purity Unique unit.[ENDCOLOR] A soldier armored in augmented armor. Tough melee shock unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AEGIS_HELP">
+			<Text>[COLOR_PURITY_AFFINITY][ICON_PURITY] Purity Unique unit.[ENDCOLOR] A light, mechanized walker with a variety of mounted weapons. Armored ranged unit with versatile fire support capabilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LEV_TANK_HELP">
+			<Text>[COLOR_PURITY_AFFINITY][ICON_PURITY] Purity Unique unit.[ENDCOLOR] An armored assault vehicle that hovers above the terrain, allowing it to traverse canyons and water. Powerful mobile ranged unit. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LEV_DESTROYER_HELP">
+			<Text>Ultimate [COLOR_PURITY_AFFINITY][ICON_PURITY] Purity Unique unit.[ENDCOLOR] A gigantic, heavily-armed assault platform that hovers above the terrain, allowing it to traverse canyons and water. Very powerful ranged and siege unit. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_XENO_SWARM_HELP">
+			<Text>[COLOR_HARMONY_AFFINITY][ICON_HARMONY] Harmony Unique unit.[ENDCOLOR] A mixed squad of human soldiers and adapted alien lifeforms. Simple, versatile melee assault unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_XENO_CAVALRY_HELP">
+			<Text>[COLOR_HARMONY_AFFINITY][ICON_HARMONY] Harmony Unique unit.[ENDCOLOR] Human soldiers mounted on domesticated alien lifeforms. Agile melee fast attack unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ROCKTOPUS_HELP">
+			<Text>[COLOR_HARMONY_AFFINITY][ICON_HARMONY] Harmony Unique unit.[ENDCOLOR] A bioengineered, living orbital unit that can move between orbital deployments and provide limited orbital coverage around its location.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_XENO_TITAN_HELP">
+			<Text>Ultimate [COLOR_HARMONY_AFFINITY][ICON_HARMONY] Harmony Unique unit.[ENDCOLOR] A bioengineered, monstrous creature based on alien lifeforms. Enormous, very powerful melee siege unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CNDR_HELP">
+			<Text>[COLOR_SUPREMACY_AFFINITY][ICON_SUPREMACY] Supremacy Unique unit.[ENDCOLOR] A limited but reliable robotic drone soldier. Simple, hardy defensive melee unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CARVR_HELP">
+			<Text>[COLOR_SUPREMACY_AFFINITY][ICON_SUPREMACY] Supremacy Unique unit.[ENDCOLOR] A sophisticated, fully autonomous robotic drone soldier. Versatile recon and melee assault unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SABR_HELP">
+			<Text>[COLOR_SUPREMACY_AFFINITY][ICON_SUPREMACY] Supremacy Unique unit.[ENDCOLOR] A high-precision robotic artillery platform with exceptional range and accuracy. Slow but powerful ranged and siege unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ANGEL_HELP">
+			<Text>Ultimate [COLOR_SUPREMACY_AFFINITY][ICON_SUPREMACY] Supremacy Unique unit.[ENDCOLOR] A highly-advanced robotic walker with heavy armaments and exceptional agility that can traverse canyons and shallow water. Extremely versatile unit suited to any battlefield role.</Text>
+		</Row>
+		<!-- Orbital Units -->
+		<Row Tag="TXT_KEY_UNIT_TACNET_HUB_HELP">
+			<Text>Orbital Unit. Provides +20% [ICON_STRENGTH], +20% [ICON_RANGE_STRENGTH], and +5 HP heal every turn to friendly Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ORBITAL_LASER_HELP">
+			<Text>Orbital Unit. Bombards hostile Units with moderate strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PHASAL_TRANSPORTER_HELP">
+			<Text>Orbital Unit. Enables Units to perform a one-way Phasal Teleport from any friendly City to any affected tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PLANET_CARVER_HELP">
+			<Text>Orbital Unit. Bombards hostile Units with pulverizing power.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MIASMIC_REPULSOR_HELP">
+			<Text>Orbital Unit. Clears Miasma from affected tiles, starting from the center.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DEEP_SPACE_TELESCOPE_HELP">
+			<Text>Orbital Unit. Once in orbit, eventually leads to discovery of The Signal, which is part of Contact Victory. Any City in range also receives +25% [ICON_RESEARCH] Science overall.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LASERCOM_SATELLITE_HELP">
+			<Text>Orbital Unit. Once in orbit, establishes contact with Old Earth, which is part of Emancipation Victory and Promised Land Victory. Any City in range also receives +15% [ICON_RESEARCH] Science overall.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MIASMIC_CONDENSER_HELP">
+			<Text>Orbital Unit. Generates Miasma on affected tiles, starting from the center.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALL_SEEING_EYE_HELP">
+			<Text>Orbital Unit. Removes all Covert Agents and Intrigue from any City in range. Prevents any Covert Agent activity or Intrigue increase as long as it orbits.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SOLAR_COLLECTOR_HELP">
+			<Text>Orbital Unit. +1 [ICON_ENERGY] Energy on tiles you own. Any City in range also receives +20% [ICON_ENERGY] Energy overall.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WEATHER_CONTROLLER_HELP">
+			<Text>Orbital Unit. +1 [ICON_FOOD] Food on tiles you own. Generates 1 to 2 new Basic Resources on unimproved tiles across its lifespan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ORBITAL_FABRICATOR_HELP">
+			<Text>Orbital Unit. +1 [ICON_PRODUCTION] Production on tiles you own. Generates 1 to 2 new Strategic Resources on unimproved tiles across its lifespan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HOLOMATRIX_HELP">
+			<Text>Orbital Unit. +2 [ICON_CULTURE] Culture on tiles you own. Any City in range receives 50% less Intrigue from enemy Covert Agent activity.</Text>
+		</Row>
+		<!-- Special Units -->
+		<Row Tag="TXT_KEY_UNIT_EARTHLING_SETTLER_HELP">
+			<Text>Special Unit. Can establish or add population to an Earthling Settlement, which is used to advance the Promised Land Victory.</Text>
+		</Row>
+		<!-- Agent names -->
+		<Row Tag="TXT_KEY_SPY_NAME_ARC_0">
+			<Text>Abetzi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARC_1">
+			<Text>Jill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARC_2">
+			<Text>Damita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARC_3">
+			<Text>Kyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARC_4">
+			<Text>Martin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARC_5">
+			<Text>Nicole</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARC_6">
+			<Text>Querida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARC_7">
+			<Text>Radcliff</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARC_8">
+			<Text>Shamika</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARC_9">
+			<Text>Thomas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AFRICAN_UNION_0">
+			<Text>Tinashe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AFRICAN_UNION_1">
+			<Text>Abasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AFRICAN_UNION_2">
+			<Text>Bina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AFRICAN_UNION_3">
+			<Text>Cakaza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AFRICAN_UNION_4">
+			<Text>Hasana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AFRICAN_UNION_5">
+			<Text>Jumah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AFRICAN_UNION_6">
+			<Text>Karmiti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AFRICAN_UNION_7">
+			<Text>Mbali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AFRICAN_UNION_8">
+			<Text>Nuru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AFRICAN_UNION_9">
+			<Text>Tabea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAN_ASIA_0">
+			<Text>Bing-qing </Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAN_ASIA_1">
+			<Text>Chan-juan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAN_ASIA_2">
+			<Text>Dac-kien</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAN_ASIA_3">
+			<Text>Jai-Li</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAN_ASIA_4">
+			<Text>Liang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAN_ASIA_5">
+			<Text>Phuoc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAN_ASIA_6">
+			<Text>Raylai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAN_ASIA_7">
+			<Text>Shing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAN_ASIA_8">
+			<Text>Yoora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PAN_ASIA_9">
+			<Text>Xue-fang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCO_IBERIA_0">
+			<Text>Christophe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCO_IBERIA_1">
+			<Text>Adele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCO_IBERIA_2">
+			<Text>Belina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCO_IBERIA_3">
+			<Text>D’Anton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCO_IBERIA_4">
+			<Text>Galileo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCO_IBERIA_5">
+			<Text>Jacira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCO_IBERIA_6">
+			<Text>Kemina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCO_IBERIA_7">
+			<Text>Nanine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCO_IBERIA_8">
+			<Text>Poston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FRANCO_IBERIA_9">
+			<Text>Tabora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KAVITHAN_0">
+			<Text>Zorion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KAVITHAN_1">
+			<Text>Devika</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KAVITHAN_2">
+			<Text>Harati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KAVITHAN_3">
+			<Text>Jaskirit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KAVITHAN_4">
+			<Text>Kaliyah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KAVITHAN_5">
+			<Text>Muskan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KAVITHAN_6">
+			<Text>Padma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KAVITHAN_7">
+			<Text>Rhisim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KAVITHAN_8">
+			<Text>Taj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KAVITHAN_9">
+			<Text>Viraj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_0">
+			<Text>Adok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_1">
+			<Text>Bodi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_2">
+			<Text>Eznik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_3">
+			<Text>Galina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_4">
+			<Text>Nikita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_5">
+			<Text>Ivan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_6">
+			<Text>Lyubov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_7">
+			<Text>Marek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_8">
+			<Text>Saskya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RUSSIA_9">
+			<Text>Tamary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRASILIA_0">
+			<Text>Catalina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRASILIA_1">
+			<Text>Eduardo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRASILIA_2">
+			<Text>Felicité</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRASILIA_3">
+			<Text>Iaynara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRASILIA_4">
+			<Text>Luana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRASILIA_5">
+			<Text>Mateus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRASILIA_6">
+			<Text>Roberto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRASILIA_7">
+			<Text>Sabrina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRASILIA_8">
+			<Text>Thiago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BRASILIA_9">
+			<Text>Vitor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYSTRALIA_0">
+			<Text>Ariyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYSTRALIA_1">
+			<Text>Brock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYSTRALIA_2">
+			<Text>Desanka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYSTRALIA_3">
+			<Text>Halia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYSTRALIA_4">
+			<Text>Kailani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYSTRALIA_5">
+			<Text>Makala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYSTRALIA_6">
+			<Text>Samoanna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYSTRALIA_7">
+			<Text>Talei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYSTRALIA_8">
+			<Text>Verity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_POLYSTRALIA_9">
+			<Text>Waluyo</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

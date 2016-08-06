@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<!-- Game Text Infos -->
+<GameData>
+	<language_en_us>
+		<!-- == Unit Upgrades ==-->
+		<row tag="TXT_KEY_UNIT_MARINE02">
+			<text>Marine II</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_MARINE03H">
+			<text>Marine III H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_MARINE04H">
+			<text>Marine IIII H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_MARINE03P">
+			<text>Marine III P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_MARINE04P">
+			<text>Marine IIII P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_MARINE03S">
+			<text>Marine III S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_MARINE04S">
+			<text>Marine IIII S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_RANGED_MARINE02">
+			<text>Ranger II</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_RANGED_MARINE03H">
+			<text>Ranger III H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_RANGED_MARINE04H">
+			<text>Ranger IIII H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_RANGED_MARINE03P">
+			<text>Ranger III P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_RANGED_MARINE04P">
+			<text>Ranger IIII P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_RANGED_MARINE03S">
+			<text>Ranger III S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_RANGED_MARINE04S">
+			<text>Ranger IIII S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_CAVALRY02">
+			<text>Amor II</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_CAVALRY03H">
+			<text>Amor III H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_CAVALRY04H">
+			<text>Amor IIII H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_CAVALRY03P">
+			<text>Amor III P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_CAVALRY04P">
+			<text>Amor IIII P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_CAVALRY03S">
+			<text>Amor III S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_CAVALRY04S">
+			<text>Amor IIII S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_SIEGE02">
+			<text>Missile Rover II</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_SIEGE03H">
+			<text>Missile Rover III H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_SIEGE04H">
+			<text>Missile Rover IIII H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_SIEGE03P">
+			<text>Missile Rover III P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_SIEGE04P">
+			<text>Missile Rover IIII P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_SIEGE03S">
+			<text>Missile Rover III S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_SIEGE04S">
+			<text>Missile Rover IIII S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NAVAL_FIGHTER02">
+			<text>Gunboat II</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NAVAL_FIGHTER03H">
+			<text>Gunboat III H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NAVAL_FIGHTER04H">
+			<text>Gunboat IIII H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NAVAL_FIGHTER03P">
+			<text>Gunboat III P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NAVAL_FIGHTER04P">
+			<text>Gunboat IIII P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NAVAL_FIGHTER03S">
+			<text>Gunboat III S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NAVAL_FIGHTER04S">
+			<text>Gunboat IIII S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_AIR_FIGHTER02">
+			<text>Tacjet II</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_AIR_FIGHTER03H">
+			<text>Tacjet III H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_AIR_FIGHTER04H">
+			<text>Tacjet IIII H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_AIR_FIGHTER03P">
+			<text>Tacjet III P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_AIR_FIGHTER04P">
+			<text>Tacjet IIII P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_AIR_FIGHTER03S">
+			<text>Tacjet III S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_AIR_FIGHTER04S">
+			<text>Tacjet IIII S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NAVAL_CARRIER02H">
+			<text>Carrier II H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NAVAL_CARRIER02P">
+			<text>Carrier II P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NAVAL_CARRIER02S">
+			<text>Carrier II S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_XENO_SWARM02H">
+			<text>Xeno Swarm II H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_XENO_SWARM02P">
+			<text>Xeno Swarm II P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_XENO_SWARM02S">
+			<text>Xeno Swarm II S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_XENO_CAVALRY02H">
+			<text>xeno Amor II H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_XENO_CAVALRY02P">
+			<text>xeno Amor II P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_XENO_CAVALRY02S">
+			<text>xeno Amor II S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_ROCKTOPUS02H">
+			<text>Rocktopus II H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_ROCKTOPUS02P">
+			<text>Rocktopus II P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_ROCKTOPUS02S">
+			<text>Rocktopus II S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_XENO_TITAN02H">
+			<text>Xeno Titan II H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_XENO_TITAN02P">
+			<text>Xeno Titan II P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_XENO_TITAN02S">
+			<text>Xeno Titan II S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_BATTLESUIT02H">
+			<text>Battlesuit II H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_BATTLESUIT02P">
+			<text>Battlesuit II P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_BATTLESUIT02S">
+			<text>Battlesuit II S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_AEGIS02H">
+			<text>Aegis II H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_AEGIS02P">
+			<text>Aegis II P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_AEGIS02S">
+			<text>Aegis II S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_LEV_TANK02H">
+			<text>LEV Tank II H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_LEV_TANK02P">
+			<text>LEV Tank II P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_LEV_TANK02S">
+			<text>LEV Tank II S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_LEV_DESTROYER02H">
+			<text>LEV Destroyer II H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_LEV_DESTROYER02P">
+			<text>LEV Destroyer II P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_LEV_DESTROYER02S">
+			<text>LEV Destroyer II S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_CNDR02H">
+			<text>CNDR II H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_CNDR02P">
+			<text>CNDR II P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_CNDR02S">
+			<text>CNDR II S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_CARVR02H">
+			<text>CARVR II H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_CARVR02P">
+			<text>CARVR II P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_CARVR02S">
+			<text>CARVR II S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_SABR02H">
+			<text>SABR II H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_SABR02P">
+			<text>SABR II P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_SABR02S">
+			<text>SABR II S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_ANGEL02H">
+			<text>ANGEL II H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_ANGEL02P">
+			<text>ANGEL II P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_ANGEL02S">
+			<text>ANGEL II S</text>
+		</row>
+	</language_en_us>
+</GameData>

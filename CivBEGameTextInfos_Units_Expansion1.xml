@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by David McDonough (Firaxis Games) -->
+<!--Sid Meier's Civilization: Beyond Earth -->
+<!--Copyright Firaxis Games 2014 -->
+<GameData>
+	<Language_en_US>
+		<!-- Unit Types -->
+		<Row Tag="TXT_KEY_UNITCOMBAT_SUBMARINE">
+			<Text>Submarine Units</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<!-- Generic Units -->
+  		<row tag="TXT_KEY_UNIT_MARINE04PH">
+			<text>Marine IIII HP</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_MARINE04SP">
+			<text>Marine IIII PS</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_MARINE04HS">
+			<text>Marine IIII SH</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NAVAL_MELEE">
+			<text>Patrol Boat</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NAVAL_MELEE02">
+			<text>Patrol Boat II</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NAVAL_MELEE03H">
+			<text>Patrol Boat III H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NAVAL_MELEE03P">
+			<text>Patrol Boat III P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NAVAL_MELEE03S">
+			<text>Patrol Boat III S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NAVAL_MELEE04H">
+			<text>Patrol Boat IIII H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NAVAL_MELEE04P">
+			<text>Patrol Boat IIII P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NAVAL_MELEE04S">
+			<text>Patrol Boat IIII S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NAVAL_MELEE04PH">
+			<text>Patrol Boat IIII HP</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NAVAL_MELEE04SP">
+			<text>Patrol Boat IIII PS</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NAVAL_MELEE04HS">
+			<text>Patrol Boat IIII SH</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_RANGED_MARINE04PH">
+			<text>Ranger IIII HP</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_RANGED_MARINE04SP">
+			<text>Ranger IIII PS</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_RANGED_MARINE04HS">
+			<text>Ranger IIII SH</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_CAVALRY04PH">
+			<text>Amor IIII HP</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_CAVALRY04SP">
+			<text>Amor IIII PS</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_CAVALRY04HS">
+			<text>Amor IIII SH</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_SUBMARINE">
+			<text>Submarine</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_SUBMARINE02">
+			<text>Submarine II</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_SUBMARINE03H">
+			<text>Submarine III H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_SUBMARINE03P">
+			<text>Submarine III P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_SUBMARINE03S">
+			<text>Submarine III S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_SUBMARINE04H">
+			<text>Submarine IIII H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_SUBMARINE04P">
+			<text>Submarine IIII P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_SUBMARINE04S">
+			<text>Submarine IIII S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NAVAL_FIGHTER04PH">
+			<text>Gunboat IIII HP</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NAVAL_FIGHTER04SP">
+			<text>Gunboat IIII PS</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NAVAL_FIGHTER04HS">
+			<text>Gunboat IIII SH</text>
+		</row>
+		<!-- Hybrid Unique Units -->
+		<row tag="TXT_KEY_UNIT_IMMORTAL">
+			<text>Immortal</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_IMMORTAL02P">
+			<text>Immortal II P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_IMMORTAL02PH">
+			<text>Immortal II HP</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_IMMORTAL02H">
+			<text>Immortal II H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_ARCHITECT">
+			<text>Architect</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_ARCHITECT02P">
+			<text>Architect II P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_ARCHITECT02PH">
+			<text>Architect II HP</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_ARCHITECT02H">
+			<text>Architect II H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_THRONE">
+			<text>Throne</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_THRONE02P">
+			<text>Throne II P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_THRONE02PH">
+			<text>Throne II HP</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_THRONE02H">
+			<text>Throne II H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NANOHIVE">
+			<text>Nanohive</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NANOHIVE02H">
+			<text>Nanohive II H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NANOHIVE02HS">
+			<text>Nanohive II SH</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_NANOHIVE02S">
+			<text>Nanohive II S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_GELIOPOD">
+			<text>Geliopod</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_GELIOPOD02H">
+			<text>Geliopod II H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_GELIOPOD02HS">
+			<text>Geliopod II SH</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_GELIOPOD02S">
+			<text>Geliopod II S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_AQUILON">
+			<text>Aquilon</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_AQUILON02H">
+			<text>Aquilon II H</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_AQUILON02HS">
+			<text>Aquilon II SH</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_AQUILON02S">
+			<text>Aquilon II S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_DRONE_CAGE">
+			<text>Drone Cage</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_DRONE_CAGE02S">
+			<text>Drone Cage II S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_DRONE_CAGE02SP">
+			<text>Drone Cage II PS</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_DRONE_CAGE02P">
+			<text>Drone Cage II P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_AUTOSLED">
+			<text>Autosled</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_AUTOSLED02S">
+			<text>Autosled II S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_AUTOSLED02SP">
+			<text>Autosled II PS</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_AUTOSLED02P">
+			<text>Autosled II P</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_GOLEM">
+			<text>Golem</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_GOLEM02S">
+			<text>Golem II S</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_GOLEM02SP">
+			<text>Golem II PS</text>
+		</row>
+		<row tag="TXT_KEY_UNIT_GOLEM02P">
+			<text>Golem II P</text>
+		</row>
+		<!-- Alien Units -->
+		<Row Tag="TXT_KEY_UNIT_ALIEN_SCARAB">
+			<Text>Scarab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_POD_HUNTER">
+			<Text>Ripper</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_HYDRA">
+			<Text>Hydracoral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_AMPHIBIAN">
+			<Text>Makara</Text>
+		</Row>
+		<!-- Orbital Units -->
+		<Row Tag="TXT_KEY_UNIT_XENO_SIREN">
+			<Text>Xeno Siren</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_STATION_SENTINEL">
+			<Text>Station Sentinel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_COMM_RELAY">
+			<Text>Comm Relay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SPY_SATELLITE">
+			<Text>Spy Satellite</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PAEAN">
+			<Text>Paean</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_XENO_SIREN_HELP">
+			<Text>Attracts nearby alien units to the affected area.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_STATION_SENTINEL_HELP">
+			<Text>Doubles trade route yields from the station underneath it. Also doubles this station's defense, and prevents it from being abandoned.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_COMM_RELAY_HELP">
+			<Text>Provides orbital coverage on all locations within a 5 tile radius.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SPY_SATELLITE_HELP">
+			<Text>Provides visibility of all locations within a 6 tile radius, not counting invisible units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PAEAN_HELP">
+			<Text>Tiles provide +1 [ICON_HEALTH] Health when worked by a City, but not past the City's local [ICON_HEALTH] Health limit.</Text>
+		</Row>
+		<!-- Unit Help Text -->
+		<Row Tag="TXT_KEY_UNIT_SUBMARINE_HELP">
+			<Text>Naval Ranged Unit. Specializing in stealth, it excels at raiding and ambushing but has limited speed and attack range, relying on its invisibility to evade enemies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_MELEE_HELP">
+			<Text>Patrol Boat Unit. A basic front-line naval unit, versatile and easy to build.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_FIGHTER_HELP">
+			<Text>Naval Ranged Unit. Versatile distance fighter that uses ranged weaponry to bombard enemies at sea or on nearby coasts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_IMMORTAL_HELP">
+			<Text>[COLOR_PURITY_AFFINITY][ICON_PURITY] Purity[ENDCOLOR] - [COLOR_HARMONY_AFFINITY][ICON_HARMONY] Harmony[ENDCOLOR] hybrid unit. A genetically enhanced soldier with enhanced physical strength. Agile, resilient shock unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ARCHITECT_HELP">
+			<Text>[COLOR_PURITY_AFFINITY][ICON_PURITY] Purity[ENDCOLOR] - [COLOR_HARMONY_AFFINITY][ICON_HARMONY] Harmony[ENDCOLOR] hybrid unit. A cognitively-enhanced integrated command squad. Delicate but powerful support unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_THRONE_HELP">
+			<Text>Ultimate [COLOR_PURITY_AFFINITY][ICON_PURITY] Purity[ENDCOLOR] - [COLOR_HARMONY_AFFINITY][ICON_HARMONY] Harmony[ENDCOLOR] hybrid unit. A mobile field command platform with exceptional battlefield control capabilities. Tough, versatile support unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NANOHIVE_HELP">
+			<Text>[COLOR_HARMONY_AFFINITY][ICON_HARMONY] Harmony[ENDCOLOR] - [COLOR_SUPREMACY_AFFINITY][ICON_SUPREMACY] Supremacy[ENDCOLOR] hybrid unit. A deployable group of robotic combat micro-drones that automatically damage enemies adjacent to the unit. Slow but powerful support unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GELIOPOD_HELP">
+			<Text>[COLOR_HARMONY_AFFINITY][ICON_HARMONY] Harmony[ENDCOLOR] - [COLOR_SUPREMACY_AFFINITY][ICON_SUPREMACY] Supremacy[ENDCOLOR] hybrid unit. A fragile but deadly melee unit that uses invisibility to outflank and ambush enemies. Specialized hunter-killer melee unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AQUILON_HELP">
+			<Text>Ultimate [COLOR_HARMONY_AFFINITY][ICON_HARMONY] Harmony[ENDCOLOR] - [COLOR_SUPREMACY_AFFINITY][ICON_SUPREMACY] Supremacy[ENDCOLOR] hybrid unit. A floating, biomechanical machine-organism capable of supporting aircraft and launching exceptional long-range attacks. Formidable heavy carrier and Missile Rover unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DRONE_CAGE_HELP">
+			<Text>[COLOR_SUPREMACY_AFFINITY][ICON_SUPREMACY] Supremacy[ENDCOLOR] - [COLOR_PURITY_AFFINITY][ICON_PURITY] Purity[ENDCOLOR] hybrid unit. An elite soldier-medic assisted by multi-purpose servant drones that autonomously heal adjacent wounded units each turn. Versatile support unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AUTOSLED_HELP">
+			<Text>[COLOR_SUPREMACY_AFFINITY][ICON_SUPREMACY] Supremacy[ENDCOLOR] - [COLOR_PURITY_AFFINITY][ICON_PURITY] Purity[ENDCOLOR] hybrid unit. A squad of shock troops mounted on a semi-autonomous mobile combat platform. Swift, aggressive raiding and reconnaissance unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GOLEM_HELP">
+			<Text>Ultimate [COLOR_SUPREMACY_AFFINITY][ICON_SUPREMACY] Supremacy[ENDCOLOR] - [COLOR_PURITY_AFFINITY][ICON_PURITY] Purity[ENDCOLOR] hybrid unit. A massive, remote-operated fortified drone capable of withstanding heavy fire and shielding nearby troops. Formidable defensive and Missile Rover unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_WOLF_BEETLE_HELP">
+			<Text>Alien unit. A common, mid-size lifeform with average strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_RAPTOR_BUG_HELP">
+			<Text>Alien unit. A tough, quick-moving lifeform.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_FLYER_HELP">
+			<Text>Alien unit. A powerful, hovering lifeform.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_MANTICORE_HELP">
+			<Text>Alien unit. An unusual, weak lifeform capable of attacking at range.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_SEA_DRAGON_HELP">
+			<Text>Alien unit. A common, large aquatic lifeform with high strength but slow speed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_SCARAB_HELP">
+			<Text>Alien unit. A small, weak, but very common simple lifeform.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_POD_HUNTER_HELP">
+			<Text>Alien unit. A small but swift aquatic lifeform with modest strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_HYDRA_HELP">
+			<Text>Nonsentient Alien unit. A form of coral, this enormous, plant-like creature is immobile and usually inert but will respond to attacks if provoked.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_AMPHIBIAN_HELP">
+			<Text>Colossal Alien unit. A heavy, slow, but very strong amphibious lifeform, Makara can pillage terrain improvements and should be considered extremely dangerous.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ALIEN_SIEGE_WORM_HELP">
+			<Text>Colossal Alien unit. Enormous burrowing worm that pillages improvements as it moves and can launch devastating attacks against both cities and units.</Text>
+		</Row>
+		<!-- Unit Upgrades -->
+		<Row Tag="TXT_KEY_UNITPERK_COMBAT_CLASS_MOD_GENERIC">
+			<Text>+{1_Percent}% against {@2_CombatClass}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITPERK_TERRAIN_TYPE_MOD_GENERIC">
+			<Text>+{1_Percent}% when attacking onto {@2_TerrainType} terrain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITPERK_SEE_INVISIBLE_RANGE_CHANGE">
+			<Text>Reveal invisible enemy units within {1_Num} tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITPERK_ATTACK_IN_ORBITAL_COVERAGE_MOD">
+			<Text>+{1_Percent}% while attacking within friendly orbital coverage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITPERK_DEFEND_IN_ORBITAL_COVERAGE_MOD">
+			<Text>+{1_Percent}% while defending within friendly orbital coverage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITPERK_ATTACK_UNFORTIFIED_MOD">
+			<Text>+{1_Percent}% when attacking units that are not fortified.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITPERK_ATTACK_FROM_INVISIBLE_MOD">
+			<Text>+{1_Percent}% when attacking if began this turn invisible to target.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITPERK_PASSIVE_ABILITY_AOE_DAMAGE_CHANGE">
+			<Text>+{1_Num} HP damage per turn from passive abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITPERK_SUPPORT_MISSION_STRENGTH_MOD">
+			<Text>+{1_Percent}% effectiveness for support actions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITPERK_SUPPORT_MISSION_DAMAGE_CHANGE">
+			<Text>{1_Num} HP damage to enemy targets of support actions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITPERK_SUPPORT_MISSION_HEAL_CHANGE">
+			<Text>{1_Num} HP heal to friendly targets of support actions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITPERK_MOVE_AFTER_SUPPORT_MISSION">
+			<Text>Support actions cost only 1 [ICON_MOVES] Movement, allowing multiple non-attack actions.</Text>
+		</Row>
+		<!-- Promotions -->
+		<Row Tag="TXT_KEY_PROMOTION_ANIMAL">
+			<Text>Animal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANIMAL_HELP">
+			<Text>-50% Attack Strength vs Cities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CAN_MOVE_IMPASSABLE">
+			<Text>Can Move Impassable</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CAN_MOVE_IMPASSABLE_HELP">
+			<Text>Unit May Move Through Impassable (Ice) Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ATTACK_FORTIFIED">
+			<Text>Bonus attacking fortified</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ATTACK_FORTIFIED_HELP">
+			<Text>Bonus when attacking fortified units</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ATTACK_UNFORTIFIED">
+			<Text>Bonus attacking unfortified</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ATTACK_UNFORTIFIED_HELP">
+			<Text>Bonus when attacking unfortified units</Text>
+		</Row>
+		<!-- Affinity Promotions -->
+		<Row Tag="TXT_KEY_PROMOTION_AUTO_HEALING">
+			<Text>Genetic Regeneration</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AUTO_HEALING_HELP">
+			<Text>Automatically heal 3 HP every turn (does not stack with healing bonuses from other units)</Text>
+		</Row>
+		<!-- Artifact Promotions -->
+		<Row Tag="TXT_KEY_PROMOTION_VAPOR_SHIELD_DESCRIPTION">
+			<Text>Vapor Shield</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VAPOR_SHIELD_HELP">
+			<Text>+100% Defense to embarked units</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TEMPORAL_CALCULUS_DESCRIPTION">
+			<Text>Temporal Calculus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TEMPORAL_CALCULUS_HELP">
+			<Text>+2 visibility to all units</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SKY_CHITIN_DESCRIPTION">
+			<Text>Sky Chitin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SKY_CHITIN_HELP">
+			<Text>+50% Strength, +3 Range to air units</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TIDAL_NAVIGATION_DESCRIPTION">
+			<Text>Tidal Navigation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TIDAL_NAVIGATION_HELP">
+			<Text>+100% defense to naval units against ranged attacks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PROJECTED_CHASIS_CONSTRUCTION_DESCRIPTION">
+			<Text>Projected Chassis Construction</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PROJECTED_CHASIS_CONSTRUCTION_HELP">
+			<Text>+100% Worker movement speed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_STEPAN_VS_THE_NEW_WORLD_SUPREMACY_DESCRIPTION">
+			<Text>Explorers are immune to Miasma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_STEPAN_VS_THE_NEW_WORLD_SUPREMACY_HELP">
+			<Text>Explorers are immune to Miasma</Text>
+		</Row>
+    <Row Tag="TXT_KEY_PROMOTION_VANISHERS_HARMONY_HELP">
+      <Text>+10% [ICON_STRENGTH] Strength in Melee Combat</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROMOTION_MARVEL_ARID_HELP">
+			<Text>+5% to +20% [ICON_STRENGTH] Strength when Civilization has 0 to 15 net [ICON_HEALTH] Health or more</Text>
+		</Row>
+		<!-- SpyNames-->
+		<Row Tag="TXT_KEY_SPY_NAME_NORTH_SEA_ALLIANCE_0">
+			<Text>James</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTH_SEA_ALLIANCE_1">
+			<Text>Marian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTH_SEA_ALLIANCE_2">
+			<Text>Angus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTH_SEA_ALLIANCE_3">
+			<Text>Isla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTH_SEA_ALLIANCE_4">
+			<Text>Mason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTH_SEA_ALLIANCE_5">
+			<Text>Scarlett</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTH_SEA_ALLIANCE_6">
+			<Text>Evie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTH_SEA_ALLIANCE_7">
+			<Text>Margaret</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTH_SEA_ALLIANCE_8">
+			<Text>Sean</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTH_SEA_ALLIANCE_9">
+			<Text>Arthur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AL_FALAH_0">
+			<Text>Lisha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AL_FALAH_1">
+			<Text>Hilal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AL_FALAH_2">
+			<Text>Najla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AL_FALAH_3">
+			<Text>Ma'mun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AL_FALAH_4">
+			<Text>Sahar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AL_FALAH_5">
+			<Text>Asad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AL_FALAH_6">
+			<Text>Akeylah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AL_FALAH_7">
+			<Text>Issam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AL_FALAH_8">
+			<Text>Talib</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AL_FALAH_9">
+			<Text>Mohammad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INTEGR_0">
+			<Text>Hannes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INTEGR_1">
+			<Text>Emma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INTEGR_2">
+			<Text>Karl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INTEGR_3">
+			<Text>Maja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INTEGR_4">
+			<Text>Johanna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INTEGR_5">
+			<Text>Anton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INTEGR_6">
+			<Text>Frieda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INTEGR_7">
+			<Text>Steffen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INTEGR_8">
+			<Text>Jan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_INTEGR_9">
+			<Text>Volker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHUNGSU_0">
+			<Text>Ye-jun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHUNGSU_1">
+			<Text>Seo-yun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHUNGSU_2">
+			<Text>Ji-hu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHUNGSU_3">
+			<Text>Su-bin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHUNGSU_4">
+			<Text>Yun-seo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHUNGSU_5">
+			<Text>Ji-woo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHUNGSU_6">
+			<Text>Sun-young</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHUNGSU_7">
+			<Text>Hyun-woo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHUNGSU_8">
+			<Text>Mi-sook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHUNGSU_9">
+			<Text>Chang-Ho</Text>
+		</Row>
+		<!-- Updated Unit Text-->
+		<Row Tag="TXT_KEY_UNIT_ALIEN_KRAKEN_HELP">
+			<Text>Colossal alien naval unit. Kraken can destroy terrain improvements and should be avoided at all costs. They are only found in deep ocean.</Text>
+		</Row>
+    <Row Tag="TXT_KEY_UNIT_TRADER_HELP">
+      <Text>Trade Unit. Used to establish Trade Routes between your cities and other cities, outposts, or stations. Trade Routes generate yields or increased outpost growth rate for the trading partners, but trade units are vulnerable to attack and plunder by enemy military units.</Text>
+    </Row>
+	</Language_en_US>
+</GameData>
