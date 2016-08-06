@@ -10,208 +10,208 @@
 			<Plurality>2</Plurality>
 		</Row>
 		<!-- Generic Units -->
-  		<row tag="TXT_KEY_UNIT_MARINE04PH">
-			<text>Marine IIII HP</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_MARINE04SP">
-			<text>Marine IIII PS</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_MARINE04HS">
-			<text>Marine IIII SH</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_NAVAL_MELEE">
-			<text>Patrol Boat</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_NAVAL_MELEE02">
-			<text>Patrol Boat II</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_NAVAL_MELEE03H">
-			<text>Patrol Boat III H</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_NAVAL_MELEE03P">
-			<text>Patrol Boat III P</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_NAVAL_MELEE03S">
-			<text>Patrol Boat III S</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_NAVAL_MELEE04H">
-			<text>Patrol Boat IIII H</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_NAVAL_MELEE04P">
-			<text>Patrol Boat IIII P</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_NAVAL_MELEE04S">
-			<text>Patrol Boat IIII S</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_NAVAL_MELEE04PH">
-			<text>Patrol Boat IIII HP</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_NAVAL_MELEE04SP">
-			<text>Patrol Boat IIII PS</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_NAVAL_MELEE04HS">
-			<text>Patrol Boat IIII SH</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_RANGED_MARINE04PH">
-			<text>Ranger IIII HP</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_RANGED_MARINE04SP">
-			<text>Ranger IIII PS</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_RANGED_MARINE04HS">
-			<text>Ranger IIII SH</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_CAVALRY04PH">
-			<text>Amor IIII HP</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_CAVALRY04SP">
-			<text>Amor IIII PS</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_CAVALRY04HS">
-			<text>Amor IIII SH</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_SUBMARINE">
-			<text>Submarine</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_SUBMARINE02">
-			<text>Submarine II</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_SUBMARINE03H">
-			<text>Submarine III H</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_SUBMARINE03P">
-			<text>Submarine III P</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_SUBMARINE03S">
-			<text>Submarine III S</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_SUBMARINE04H">
-			<text>Submarine IIII H</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_SUBMARINE04P">
-			<text>Submarine IIII P</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_SUBMARINE04S">
-			<text>Submarine IIII S</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_NAVAL_FIGHTER04PH">
-			<text>Gunboat IIII HP</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_NAVAL_FIGHTER04SP">
-			<text>Gunboat IIII PS</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_NAVAL_FIGHTER04HS">
-			<text>Gunboat IIII SH</text>
-		</row>
+  		<Row Tag="TXT_KEY_UNIT_MARINE04PH">
+			<Text>Marine IIII HP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MARINE04SP">
+			<Text>Marine IIII PS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MARINE04HS">
+			<Text>Marine IIII SH</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_MELEE">
+			<Text>Patrol Boat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_MELEE02">
+			<Text>Patrol Boat II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_MELEE03H">
+			<Text>Patrol Boat III H</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_MELEE03P">
+			<Text>Patrol Boat III P</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_MELEE03S">
+			<Text>Patrol Boat III S</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_MELEE04H">
+			<Text>Patrol Boat IIII H</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_MELEE04P">
+			<Text>Patrol Boat IIII P</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_MELEE04S">
+			<Text>Patrol Boat IIII S</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_MELEE04PH">
+			<Text>Patrol Boat IIII HP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_MELEE04SP">
+			<Text>Patrol Boat IIII PS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_MELEE04HS">
+			<Text>Patrol Boat IIII SH</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RANGED_MARINE04PH">
+			<Text>Ranger IIII HP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RANGED_MARINE04SP">
+			<Text>Ranger IIII PS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RANGED_MARINE04HS">
+			<Text>Ranger IIII SH</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CAVALRY04PH">
+			<Text>Amor IIII HP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CAVALRY04SP">
+			<Text>Amor IIII PS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CAVALRY04HS">
+			<Text>Amor IIII SH</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUBMARINE">
+			<Text>Submarine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUBMARINE02">
+			<Text>Submarine II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUBMARINE03H">
+			<Text>Submarine III H</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUBMARINE03P">
+			<Text>Submarine III P</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUBMARINE03S">
+			<Text>Submarine III S</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUBMARINE04H">
+			<Text>Submarine IIII H</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUBMARINE04P">
+			<Text>Submarine IIII P</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUBMARINE04S">
+			<Text>Submarine IIII S</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_FIGHTER04PH">
+			<Text>Gunboat IIII HP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_FIGHTER04SP">
+			<Text>Gunboat IIII PS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NAVAL_FIGHTER04HS">
+			<Text>Gunboat IIII SH</Text>
+		</Row>
 		<!-- Hybrid Unique Units -->
-		<row tag="TXT_KEY_UNIT_IMMORTAL">
-			<text>Immortal</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_IMMORTAL02P">
-			<text>Immortal II P</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_IMMORTAL02PH">
-			<text>Immortal II HP</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_IMMORTAL02H">
-			<text>Immortal II H</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_ARCHITECT">
-			<text>Architect</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_ARCHITECT02P">
-			<text>Architect II P</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_ARCHITECT02PH">
-			<text>Architect II HP</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_ARCHITECT02H">
-			<text>Architect II H</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_THRONE">
-			<text>Throne</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_THRONE02P">
-			<text>Throne II P</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_THRONE02PH">
-			<text>Throne II HP</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_THRONE02H">
-			<text>Throne II H</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_NANOHIVE">
-			<text>Nanohive</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_NANOHIVE02H">
-			<text>Nanohive II H</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_NANOHIVE02HS">
-			<text>Nanohive II SH</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_NANOHIVE02S">
-			<text>Nanohive II S</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_GELIOPOD">
-			<text>Geliopod</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_GELIOPOD02H">
-			<text>Geliopod II H</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_GELIOPOD02HS">
-			<text>Geliopod II SH</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_GELIOPOD02S">
-			<text>Geliopod II S</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_AQUILON">
-			<text>Aquilon</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_AQUILON02H">
-			<text>Aquilon II H</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_AQUILON02HS">
-			<text>Aquilon II SH</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_AQUILON02S">
-			<text>Aquilon II S</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_DRONE_CAGE">
-			<text>Drone Cage</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_DRONE_CAGE02S">
-			<text>Drone Cage II S</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_DRONE_CAGE02SP">
-			<text>Drone Cage II PS</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_DRONE_CAGE02P">
-			<text>Drone Cage II P</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_AUTOSLED">
-			<text>Autosled</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_AUTOSLED02S">
-			<text>Autosled II S</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_AUTOSLED02SP">
-			<text>Autosled II PS</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_AUTOSLED02P">
-			<text>Autosled II P</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_GOLEM">
-			<text>Golem</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_GOLEM02S">
-			<text>Golem II S</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_GOLEM02SP">
-			<text>Golem II PS</text>
-		</row>
-		<row tag="TXT_KEY_UNIT_GOLEM02P">
-			<text>Golem II P</text>
-		</row>
+		<Row Tag="TXT_KEY_UNIT_IMMORTAL">
+			<Text>Immortal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_IMMORTAL02P">
+			<Text>Immortal II P</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_IMMORTAL02PH">
+			<Text>Immortal II HP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_IMMORTAL02H">
+			<Text>Immortal II H</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ARCHITECT">
+			<Text>Architect</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ARCHITECT02P">
+			<Text>Architect II P</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ARCHITECT02PH">
+			<Text>Architect II HP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ARCHITECT02H">
+			<Text>Architect II H</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_THRONE">
+			<Text>Throne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_THRONE02P">
+			<Text>Throne II P</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_THRONE02PH">
+			<Text>Throne II HP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_THRONE02H">
+			<Text>Throne II H</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NANOHIVE">
+			<Text>Nanohive</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NANOHIVE02H">
+			<Text>Nanohive II H</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NANOHIVE02HS">
+			<Text>Nanohive II SH</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NANOHIVE02S">
+			<Text>Nanohive II S</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GELIOPOD">
+			<Text>Geliopod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GELIOPOD02H">
+			<Text>Geliopod II H</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GELIOPOD02HS">
+			<Text>Geliopod II SH</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GELIOPOD02S">
+			<Text>Geliopod II S</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AQUILON">
+			<Text>Aquilon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AQUILON02H">
+			<Text>Aquilon II H</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AQUILON02HS">
+			<Text>Aquilon II SH</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AQUILON02S">
+			<Text>Aquilon II S</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DRONE_CAGE">
+			<Text>Drone Cage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DRONE_CAGE02S">
+			<Text>Drone Cage II S</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DRONE_CAGE02SP">
+			<Text>Drone Cage II PS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DRONE_CAGE02P">
+			<Text>Drone Cage II P</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AUTOSLED">
+			<Text>Autosled</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AUTOSLED02S">
+			<Text>Autosled II S</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AUTOSLED02SP">
+			<Text>Autosled II PS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AUTOSLED02P">
+			<Text>Autosled II P</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GOLEM">
+			<Text>Golem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GOLEM02S">
+			<Text>Golem II S</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GOLEM02SP">
+			<Text>Golem II PS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GOLEM02P">
+			<Text>Golem II P</Text>
+		</Row>
 		<!-- Alien Units -->
 		<Row Tag="TXT_KEY_UNIT_ALIEN_SCARAB">
 			<Text>Scarab</Text>
