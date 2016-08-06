@@ -6,5 +6,7 @@ I used the normalize.js to normalize the names.  I then replaced the normalized 
 For the expansion I only ran lines 13-214 through normalize.js
 
 Replace the two files below with their corresponding files in this repo
+
 SteamLibrary\steamapps\common\Sid Meier's Civilization Beyond Earth\assets\Gameplay\XML\Text\en_US\CivBEGameTextInfos_UnitUpgrades.xml
+
 SteamLibrary\steamapps\common\Sid Meier's Civilization Beyond Earth\assets\DLC\Expansion1\Gameplay\XML\Text\en_US\CivBEGameTextInfos_Units_Expansion1.xml
