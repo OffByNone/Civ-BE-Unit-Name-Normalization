@@ -32,7 +32,7 @@
 			<Text>Ranger</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CAVALRY">
-			<Text>Amor</Text>
+			<Text>Armor</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SIEGE">
 			<Text>Missile Rover</Text>

@@ -62,13 +62,13 @@
 			<Text>Ranger IIII SH</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CAVALRY04PH">
-			<Text>Amor IIII HP</Text>
+			<Text>Armor IIII HP</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CAVALRY04SP">
-			<Text>Amor IIII PS</Text>
+			<Text>Armor IIII PS</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CAVALRY04HS">
-			<Text>Amor IIII SH</Text>
+			<Text>Armor IIII SH</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SUBMARINE">
 			<Text>Submarine</Text>

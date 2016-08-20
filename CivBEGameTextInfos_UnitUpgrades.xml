@@ -47,25 +47,25 @@
 			<Text>Ranger IIII S</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CAVALRY02">
-			<Text>Amor II</Text>
+			<Text>Armor II</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CAVALRY03H">
-			<Text>Amor III H</Text>
+			<Text>Armor III H</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CAVALRY04H">
-			<Text>Amor IIII H</Text>
+			<Text>Armor IIII H</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CAVALRY03P">
-			<Text>Amor III P</Text>
+			<Text>Armor III P</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CAVALRY04P">
-			<Text>Amor IIII P</Text>
+			<Text>Armor IIII P</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CAVALRY03S">
-			<Text>Amor III S</Text>
+			<Text>Armor III S</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_CAVALRY04S">
-			<Text>Amor IIII S</Text>
+			<Text>Armor IIII S</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SIEGE02">
 			<Text>Missile Rover II</Text>
@@ -149,13 +149,13 @@
 			<Text>Xeno Swarm II S</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_XENO_CAVALRY02H">
-			<Text>xeno Amor II H</Text>
+			<Text>xeno Armor II H</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_XENO_CAVALRY02P">
-			<Text>xeno Amor II P</Text>
+			<Text>xeno Armor II P</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_XENO_CAVALRY02S">
-			<Text>xeno Amor II S</Text>
+			<Text>xeno Armor II S</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ROCKTOPUS02H">
 			<Text>Rocktopus II H</Text>
